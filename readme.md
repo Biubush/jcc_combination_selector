@@ -1,6 +1,6 @@
 # 项目说明
 
-<img src="https://github.com/Biubush/sklearn_studyjcc_combination_selector/blob/main/static/pics/preview.png">
+<img src="https://github.com/Biubush/jcc_combination_selector/blob/main/static/pics/preview.png">
 
 ## 简介
 
