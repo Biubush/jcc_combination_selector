@@ -1,0 +1,7 @@
+**/__pycache__/
+.conda/
+.vscode/
+.idea/
+.venv/
+src/
+debug.py
