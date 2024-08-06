@@ -1,6 +1,6 @@
 # 项目说明
 
-<img src="https://cdn.jsdelivr.net/gh/Biubush/jcc_combination_selector@latest/static/pics/preview.png">
+<img src="https://github.com/Biubush/sklearn_studyjcc_combination_selector/blob/main/static/pics/preview.png">
 
 ## 简介
 
